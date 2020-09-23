@@ -1,0 +1,115 @@
+header {
+  /**background-color: gray;**/
+  background-image: url(rockysunset.jpg);
+  text-align: center;
+  text-shadow: 2px 2px white;
+  padding: 75px;
+  background-size: contain;
+  background-repeat: repeat-x;
+  color: royalBlue;
+}
+/**.headBack {
+  background-image: url("rockysunset.jpg");
+}**/
+h1 {
+  font-size: 400%;
+  letter-spacing: 6px;
+  /**border: 2px solid red;**/
+}
+h1:nth-child(2) {
+  font-size: 150%;
+  border: none;
+}
+nav {
+  text-align: center;
+}
+nav a:hover {
+  color: red;
+}
+ul {
+  padding-inline-start: 0px;
+}
+li {
+  float: none;
+  display: inline;
+  list-style-type: none;
+  padding: 10px;
+  font-size: 125%;
+  letter-spacing: 4px;
+}
+body {
+  background-color: black;
+  color: white;
+  font-family: "Times New Roman", sans-serif;
+  box-sizing: border-box;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+form {
+  padding: 8px;
+  border: 2px solid red;
+}
+p {
+  text-align: center;
+}
+.sax {
+  border: 8px ridge red;
+}
+.ContactHead {
+  text-align: center;
+}
+span {
+  text-align: center;
+}
+h2,h3,h4 {
+  text-align: center;
+}
+.adamgoofy {
+  width: 200px;
+  border: 8px ridge red;
+}
+aside {
+  text-align: center;
+}
+.CssFrustration {
+  font-style: italic;
+  font-size: 130%;
+  text-align: center;
+}
+.tryAlign {
+  text-align: center;
+  margin-right: 19%;
+  margin-top: 9em;
+  text-transform: uppercase;
+}
+.saxdiv {
+  float: left;
+  margin-left: 7%;
+}
+.biographyFontSize {
+  font-size: 125%;
+}
+.goBelow {
+  margin-top: 11%;
+}
+textarea:hover {
+  background: lightblue;
+}
+input:hover {
+  background: lightblue;
+}
+.radio.inout:hover {
+  background: yellow;
+}
+footer {
+  background-image: url(moonsetRockies.jpg);
+  padding: 75px;
+  background-size: contain;
+  background-repeat: repeat-x;
+  color: red;
+  text-shadow: 1px 1px whiteSmoke;
+}
